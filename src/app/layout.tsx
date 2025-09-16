@@ -13,14 +13,14 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: 'Simple Calculator',
-  description: 'シンプルな電卓アプリです。',
-  keywords: ['Yoshi0518', 'Simple', 'Calculator', 'シンプル', '電卓'],
+  title: '●●●',
+  description: '●●●',
+  keywords: ['●●●', '●●●', '●●●'],
   openGraph: {
-    title: 'Simple Calculator',
-    description: 'シンプルな電卓アプリです。',
-    url: 'https://simcal.yoshi0518.com',
-    siteName: 'Simple Calculator',
+    title: '●●●',
+    description: '●●●',
+    url: 'https://xxx.yoshi0518.com',
+    siteName: '●●●',
   },
   robots: {
     index: !env.DEBUG, // falseでnoindex
